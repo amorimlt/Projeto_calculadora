@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Projeto final - Calculadora
 
-You can use the [editor on GitHub](https://github.com/amorimlt/Projeto_calculadora/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## O que é esse projeto? 🧮​
+Esse programa consiste em uma calculadora com 11 operações matemáticas. Junta as contas mais simples como adição e subtração, com mais complexas como Bhaskara.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![imagem](https://user-images.githubusercontent.com/100002965/175851556-8196d044-553c-427d-ab5b-b9afad5e1f94.PNG)
 
-### Markdown
+## Download ⇩
+[Download do arquivo zip](dist/calculadora.zip)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Agradecimentos especiais 💐​
+Agradeço imensamente os professores [Ermogenes Palacio](https://github.com/ermogenes) e [Diego Neri](https://github.com/diegoneri) que abriram as portas da programação para mim e me apresentaram um mundo incrível!
 
-```markdown
-Syntax highlighted code block
+## Créditos 📎
+Dev: Amorimlt - Juliane Amorim 
 
-# Header 1
-## Header 2
-### Header 3
+[Template](https://github.com/ermogenes/calculadora-2022) do professor [Ermogenes Palacio](https://github.com/ermogenes)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amorimlt/Projeto_calculadora/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
