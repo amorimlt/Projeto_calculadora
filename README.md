@@ -1,7 +1,7 @@
 # Projeto final - Calculadora
 
 ## O que é esse projeto? 🧮​
-Esse programa consiste em uma calculadora com 11 operações matemáticas, junta as contas mais simples como adição e subtração, com mais complexas como Bhaskara.
+Esse programa consiste em uma calculadora com 11 operações matemáticas. Junta as contas mais simples como adição e subtração, com mais complexas como Bhaskara.
 
 [imagem](https://user-images.githubusercontent.com/100002965/175851556-8196d044-553c-427d-ab5b-b9afad5e1f94.PNG)
 
