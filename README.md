@@ -2,7 +2,7 @@
 
 ## O que é esse projeto?
 Esse programa consiste em uma calculadora com 11 operações matemáticas, junta as contas mais simples como adição e subtração, com mais complexas como Bhaskara.
-
+[imagem](calculatora.png)
 ## Download ⇩
 
 ## Agradecimentos especiais ♥
